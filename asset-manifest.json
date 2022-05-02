@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mohamed-Yassine-Youssef/Birthday.git/static/css/main.e194520d.css",
+    "main.js": "/Mohamed-Yassine-Youssef/Birthday.git/static/js/main.bf7b6245.js",
+    "index.html": "/Mohamed-Yassine-Youssef/Birthday.git/index.html",
+    "main.e194520d.css.map": "/Mohamed-Yassine-Youssef/Birthday.git/static/css/main.e194520d.css.map",
+    "main.bf7b6245.js.map": "/Mohamed-Yassine-Youssef/Birthday.git/static/js/main.bf7b6245.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e194520d.css",
+    "static/js/main.bf7b6245.js"
+  ]
+}
